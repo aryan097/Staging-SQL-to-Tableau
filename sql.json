@@ -1,0 +1,7 @@
+{
+  "SQL_SERVER": "your-sql-server-or-host\\instance",
+  "SQL_DATABASE": "YourDatabase",
+  "SQL_UID": "YourSqlLogin",
+  "SQL_PWD": "YourPassword",
+  "DRIVER": "{ODBC Driver 17 for SQL Server}"
+}
